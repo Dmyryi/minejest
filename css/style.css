@@ -1,0 +1,158 @@
+html {
+    overflow-x: hidden;
+    }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+   margin: 0;
+  }
+  
+  ul,
+  ol {
+   margin: 0;
+   padding: 0;
+  }
+  
+  img {
+   display: block;
+  }
+  
+  
+  
+
+  
+  .link {
+   text-decoration: none;
+  }
+  
+  .list {
+   list-style: none;
+  }
+
+a {
+	text-decoration: none;
+	color: #FFFFFF;
+
+}
+
+a:hover {
+	color: #DBFF00;
+
+}
+
+body {
+	background: url(../image/Background.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #2f303a;	
+margin: 0 auto;
+	height: 100%;
+
+}
+
+
+
+.login-menu {
+	display: flex;
+	padding-top: 35px;
+	padding-right: 47px;
+	font-family: 'Noto Sans';
+	font-size: 25px;
+	color: #FFFFFF;
+	float: right;
+
+
+}
+
+
+
+.play-now:hover .image {
+	opacity: 0.8;
+ }
+
+.login {
+	padding-left: 50px;
+
+}
+
+.register {
+	padding-left: 50px;
+}
+
+.content {
+	width: 700px;
+	padding-left: 103px;
+	padding-top: 50px;
+	color: #FFFFFF;
+
+
+}
+
+.content-name{
+	font-family: 'Kumar One';
+	font-size: 85px;
+	height: 120px;
+
+}
+
+.content-text {
+	font-family: 'Source Sans Pro';
+	font-size: 30px;
+	height: 40px;
+	padding-top: 15px;
+
+
+}
+
+.content-button {
+	width: 410px;
+	height: 100px;
+
+	padding-top: 55px;
+
+}
+
+.feedback {
+	display: flex;
+
+
+	padding-left: 40px;
+	padding-bottom: 45px;
+	padding-top:300px
+}
+
+.feedback  {
+	width: 50px;
+	height: 50px;
+
+}
+
+.feedback-text {
+	font-family: 'Montserrat';
+	font-size: 30px; 
+
+}
+
+.feedback-logo {
+	padding-left: 25px;
+
+
+}
+
+
+
+
+.svg{
+	width: 40px;
+	height: 40px;
+	fill:#FFFFFF;
+}
+
+.svg:hover{
+	fill:#DBFF00;
+}
